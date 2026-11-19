@@ -1,0 +1,16 @@
+# Private material: never publish
+papers/
+*.docx
+*.doc
+notes/
+private/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Local screenshots
+_preview/
